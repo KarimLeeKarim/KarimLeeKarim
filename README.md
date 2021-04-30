@@ -3,7 +3,6 @@
 - Skils: HTML/ CSS/ SASS/ Gulp/ Bootstrap/ Material UI/ Javascript/ JQuery/ REACT JS/ Python/  Docker-Compose/ MySQL
 - Check it if you want to contact me. EMail: kerimlikerim24@gmail.com 
 <p align="center">
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
