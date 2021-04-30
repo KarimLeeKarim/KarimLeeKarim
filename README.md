@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Karim
 - I'm a frontend developer
-- Skils: HTML/ CSS/ SASS/ Gulp/ Bootstrap/ Material UI/ Javascript/ JQuery/ REACT JS/ Python/  Docker-Compose/ MySQL
+- Skills: HTML/ CSS/ SASS/ Gulp/ Bootstrap/ Material UI/ Javascript/ JQuery/ REACT JS/ Python/  Docker-Compose/ MySQL
 - Check it if you want to contact me. EMail: kerimlikerim24@gmail.com 
 <p align="center">
   <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
