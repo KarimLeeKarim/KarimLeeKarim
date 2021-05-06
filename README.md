@@ -7,6 +7,7 @@
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
   <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">
   <br/>
+  <img src="https://media.giphy.com/media/Jrf7sINanJ3KWLQQDe/giphy.gif" width="100">
   <img src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" width="100">
 </p>
 
